@@ -1,6 +1,6 @@
 # AAD for CUDA Code
 
-This project demonstrates how to integrate an operator overloading AAD (Automatic Differentiation) library, such as AADC, with existing CUDA code. This approach allows for efficient computational differentiation on both CPU and GPU using a unified code base.
+This project demonstrates how to integrate an operator overloading AAD (Automatic Differentiation) library, such as AADC, with existing CUDA code. This approach allows for efficient computational differentiation on CPU and regular execution on GPU using a unified code base.
 
 ## Key Features
 
